@@ -27,7 +27,8 @@ The program accepts the number of students and their names and grades from the u
 
 ## How to Run
 
-Compile the program:
+Compile the program:javac StudentGradeTracker.java
+java StudentGradeTracker
 
 ```bash
 javac StudentGradeTracker.java
